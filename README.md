@@ -1,3 +1,4 @@
 - 👋 Hi, I’m @leobartoccini
 - 👀 I’m interested in coding and economics
-- 🌱 I’m currently learning C and Python
+- ✅ I have some knowledge in Python and C/C++
+- 🌱 I’m currently learning React Native
