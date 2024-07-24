@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @leobartoccini
 - 👀 I’m interested in coding and economics
-- ✅ I have some knowledge in Python, C/C++ and SQL
+- ✅ I have some knowledge in HTML, CSS, JavaScript, Python, C/C++ and SQL
 - 🌱 I’m currently learning React Native
